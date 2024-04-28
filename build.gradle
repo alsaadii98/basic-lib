@@ -19,7 +19,7 @@ repositories {
         url = uri("https://maven.pkg.github.com/alsaadii98/basic-lib")
         credentials {
             username = "alsaadii98"
-            password = "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"
+            password = "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"
         }
     }
 }
@@ -56,7 +56,7 @@ publishing {
             url = uri("https://maven.pkg.github.com/alsaadii98/basic-lib")
             credentials {
                 username = "alsaadii98"
-                password = "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"
+                password = "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"
             }
         }
     }
